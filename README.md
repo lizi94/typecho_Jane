@@ -1,6 +1,6 @@
 # typecho_Jane
 
-一款黑色简洁typecho博客主题Jane，相关链接：http://yiyeti.cc/zheteng/377.html
+一款黑色简洁typecho博客主题Jane。
 
 # 主题食用方法：
 
@@ -58,4 +58,4 @@
 
 # 预览图
 
-![image](https://github.com/yiyeticms/typecho_Jane/blob/master/screenshot.png)
+![image](https://git.logyu.cc/LiZiSuYoo/typecho_Jane/raw/branch/master/screenshot.png)
